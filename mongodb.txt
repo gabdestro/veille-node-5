@@ -1,3 +1,4 @@
+shift rightclick dans la fenetre du fichier
 pour installer a partir du powershell
 
 ./mongod --dbpath=E:\veille\Veille-node-5/data_mongo/
